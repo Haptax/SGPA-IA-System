@@ -1,0 +1,18 @@
+# Dependencias
+node_modules/
+venv/
+__pycache__/
+*.class
+
+# Entorno y Secretos (¡NUNCA SUBIR!)
+.env
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs y Build
+dist/
+build/
+*.log
